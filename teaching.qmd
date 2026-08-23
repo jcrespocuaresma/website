@@ -1,0 +1,27 @@
+---
+title: "Teaching"
+title-block-style: none
+---
+
+
+# Teaching
+
+My teaching covers macroeconomics, econometrics and economic growth at undergraduate, master's and doctoral level.
+
+## Main areas
+
+- Introductory and advanced macroeconomics
+- Macroeconomic policy and international macroeconomics
+- Econometrics and time-series analysis
+- Bayesian econometrics
+- Economic growth and development
+
+## Doctoral and specialised teaching
+
+At doctoral level, I teach courses in econometrics, macroeconomics and economic growth. I have also taught specialised courses in economic growth and macroeconometrics for World Bank staff and as part of international capacity-building programmes.
+
+## Thesis supervision
+
+I supervise master's and doctoral research in fiscal and monetary policy, economic growth and development, international economics, environmental economics, labour economics and econometrics.
+
+For current courses and schedules, see the [WU course catalogue](https://vvz.wu.ac.at/).

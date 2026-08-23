@@ -1,0 +1,607 @@
+---
+title: "Publications"
+title-block-style: none
+---
+
+
+# Publications
+
+## Selected publications
+
+The papers below give a compact view of the main strands of my research. DOI links lead directly to the publication or, for the forthcoming paper, to the current preprint.
+
+1. **[Bayesian Indicator-Saturated Regression for Climate Policy Evaluation](https://doi.org/10.48550/arXiv.2603.04997)** (with L.D. Konrad and L. Vashold). *The Econometrics Journal*, forthcoming. [Preprint](https://doi.org/10.48550/arXiv.2603.04997)
+2. **[A Unified Modelling Framework for Projecting Sectoral Greenhouse Gas Emissions](https://doi.org/10.1038/s43247-024-01288-9)** (with L. Vashold). *Communications Earth & Environment*, 5 (2024), 139. [DOI](https://doi.org/10.1038/s43247-024-01288-9)
+3. **[Natural Resources Modulate the Nexus Between Environmental Shocks and Human Mobility](https://doi.org/10.1038/s41467-023-37074-y)** (with M. Brottrager, S.H. Ali and D. Kniveton). *Nature Communications*, 14 (2023), 1393. [DOI](https://doi.org/10.1038/s41467-023-37074-y)
+4. **[A Meta-Analysis of Country-Level Studies on Environmental Change and Migration](https://doi.org/10.1038/s41558-020-0898-6)** (with R. Hoffmann, A. Dimitrova, R. Muttarak and J. Peisker). *Nature Climate Change*, 10 (2020), 904–912. [DOI](https://doi.org/10.1038/s41558-020-0898-6)
+5. **[Education Rather than Age Structure Brings Demographic Dividend](https://doi.org/10.1073/pnas.1820362116)** (with W. Lutz, E.B. Kebede, A. Fürnkranz-Prskawetz, W. Sanderson and E. Striessnig). *Proceedings of the National Academy of Sciences*, 116 (2019), 12798–12803. [DOI](https://doi.org/10.1073/pnas.1820362116)
+6. **[Climate, Conflict and Forced Migration](https://doi.org/10.1016/j.gloenvcha.2018.12.003)** (with G. Abel, M. Brottrager and R. Muttarak). *Global Environmental Change*, 54 (2019), 239–249. [DOI](https://doi.org/10.1016/j.gloenvcha.2018.12.003)
+7. **[Income Projections for Climate Change Research: A Framework Based on Human Capital Dynamics](https://doi.org/10.1016/j.gloenvcha.2015.02.012)**. *Global Environmental Change*, 42 (2017), 226–236. [DOI](https://doi.org/10.1016/j.gloenvcha.2015.02.012)
+8. **[Forecasting with Global Vector Autoregressive Models: A Bayesian Approach](https://doi.org/10.1002/jae.2504)** (with M. Feldkircher and F. Huber). *Journal of Applied Econometrics*, 31 (2016), 1371–1391. [DOI](https://doi.org/10.1002/jae.2504)
+9. **[Is the Demographic Dividend an Education Dividend?](https://doi.org/10.1007/s13524-013-0245-x)** (with W. Lutz and W. Sanderson). *Demography*, 51 (2014), 299–315. [DOI](https://doi.org/10.1007/s13524-013-0245-x)
+10. **[The Demography of Educational Attainment and Economic Growth](https://doi.org/10.1126/science.1151753)** (with W. Lutz and W. Sanderson). *Science*, 319 (2008), 1047–1048. [DOI](https://doi.org/10.1126/science.1151753)
+
+## Recent other research outputs
+
+- *Ein Klimaplan für Österreich* (with C. Keuschnigg), eXplore! Initiative, 2026.
+- *Measuring Human Capital with Productivity-Weighted Labor Force: Methodology and Projections for China, India, the United States, and the European Union* (with G. Marois, S. Gietel-Basten, J.G. Zellmann, C. Reiter and W. Lutz), IIASA Working Paper WP-24-005, 2024.
+- *Human Migration and Natural Resources: Global Assessment of an Adaptive Complex System* (contributing author), United Nations Environment Programme / International Resource Panel, 2023.
+- Natural Disasters and Economic Growth: Revisiting the Evidence, in *Handbook on the Economics of Disasters*, 2022. [DOI](https://doi.org/10.4337/9781839103735.00016)
+
+<details class="full-list">
+<summary><strong>Complete peer-reviewed publication list</strong></summary>
+
+1.  Bayesian Indicator-Saturated Regression for Climate Policy
+    Evaluation (with L.D. Konrad and L. Vashold), *The Econometrics
+    Journal*, forthcoming. Preprint:
+    <https://doi.org/10.48550/arXiv.2603.04997>.
+
+2.  Labor Market Institutions, Fiscal Multipliers, and Macroeconomic
+    Volatility (with M. Boeck and C. Glocker), *Journal of Applied
+    Econometrics*, advance online publication (2026).
+    <https://doi.org/10.1002/jae.70078>.
+
+3.  What Are Price Mark-Up Shocks? (with R. Singer), *Applied Economics
+    Letters*, advance online publication (2025), 1–6.
+    <https://doi.org/10.1080/13504851.2025.2491729>.
+
+4.  The Regional Determinants of Per-Capita CO₂ Emissions Growth in
+    Europe (with D. Schmidtner), *Letters in Spatial and Resource
+    Sciences*, Vol. 19 (2026), 20.
+    <https://doi.org/10.1007/s12076-026-00445-2>.
+
+5.  Projecting Labour Market Imbalances and Skill Mismatch under
+    Demographic Change in the EU (with G. Marois, M. Potancokova and A.
+    Bezat-Jarzębowska),*European Journal of Population*, Vol. 42
+    (2026), 4. <https://doi.org/10.1007/s10680-025-09758-2>.
+
+6.  Real-time Data, Revisions and the Predictive Ability of DSGE Models
+    (with J. Čapek, J. Chalmoviansky and V. Reichel), *Oxford Bulletin
+    of Economics and Statistics*, Vol. 87 (2025), 1059-1080.
+    <https://doi.org/10.1111/obes.12677>.
+
+7.  A Dataset of Structural Breaks in Greenhouse Gas Emissions for
+    Climate Policy Evaluation (with T. Tebecis), *Scientific Data*, Vol.
+    12 (2025), 42. <https://doi.org/10.1038/s41597-024-04321-w>.
+
+8.  Commentary: From Acute Food Insecurity to Famine: How the 2023/2024
+    War on Gaza Has Dramatically Set Back Sustainable Development Goal 2
+    to End Hunger (with R. Zelingher), *Frontiers in Sustainable Food
+    Systems*, Vol. 8 (2024), 1511320.
+    <https://doi.org/10.3389/fsufs.2024.1511320>.
+
+9.  High-Resolution Modelling and Projecting Local Dynamics of
+    Differential Vulnerability to Urban Heat Stress (with I.
+    Marginean, R. Hoffmann, R. Muttarak, J. Gao and A.S. Daloz),
+    *Earth’s Future*, Vol. 12 (2024), e2024EF004431.
+    <https://doi.org/10.1029/2024EF004431>.
+
+10. Regime-Dependent Commodity Price Dynamics: A Predictive Analysis
+    (with I. Fortin, J. Hlouskova and M. Obersteiner), *Journal of
+    Forecasting*, Vol. 43 (2024), 2822-2847.
+    <https://doi.org/10.1002/for.3152>.
+
+11. The Effect of Structural Reforms on Employment and the Trade–Labour
+    Link: Robust Evidence from Europe and Central Asia (with N. Rovo
+    and G. Vincelette), *Economics of Transition and Institutional
+    Change*, Vol. 32 (2024), 1037–1055.
+    <https://doi.org/10.1111/ecot.12408>.
+
+12. A Dataset of Human Capital-Weighted Population Estimates for 185
+    Countries from 1970 to 2100 (with G. Marois, J. Zellmann and C.
+    Reiter), *Scientific Data*, Vol. 11 (2024), 612.
+    <https://doi.org/10.1038/s41597-024-03466-y>.
+
+13. A Unified Modelling Framework for Projecting Sectoral Greenhouse Gas
+    Emissions (with L. Vashold), *Communications Earth & Environment*,
+    Vol.5 (2024), 139. <https://doi.org/10.1038/s43247-024-01288-9>.
+
+14. Climate, Conflict and Internal Migration in Colombia (with K.
+    Fenz, T. Mitterling and I. Roitner-Fransecky), *Vienna Yearbook of
+    Population Research*, Vol. 22 (2024), 1-22.
+    <https://doi.org/10.1553/p-8kaj-g8kb>.
+
+15. Explaining Long-Term Bond Yields Synchronization Dynamics in Europe
+    (with O. Fernandez), *Economic Modelling*, Vol. 133 (2024), 106684.
+    <https://doi.org/10.1016/j.econmod.2024.106684>.
+
+16. Gravity Models for Global Migration Flows: A Predictive Evaluation
+    (with J. Caballero Reina, K. Fenz, J. Zellmann, T. Yankov and A.
+    Taha), *Population Research and Policy Review*, Vol. 43 (2024), 29.
+    <https://doi.org/10.1007/s11113-024-09867-6>.
+
+17. Production Structure, Tradability and Fiscal Spending Multipliers
+    (with C. Glocker), *Journal of International Money and Finance*,
+    Vol. 138 (2023), 102921.
+    <https://doi.org/10.1016/j.jimonfin.2023.102921>.
+
+18. Macroeconomic Forecasting in the Euro Area Using Predictive
+    Combinations of DSGE Models (with J. Čapek, N. Hauzenberger and V.
+    Reichel), *International Journal of Forecasting*, Vol. 39 (2023),
+    1820-1838. <https://doi.org/10.1016/j.ijforecast.2022.09.002>.
+
+19. Towards scenario representation of adaptive capacity for global
+    climate change assessments (with M. Andrijevic, C-F. Schleussner, T.
+    Lissner, R. Muttarak, K.Riahi, E. Theokritoff, A. Thomas, N. van
+    Maanen and E. Byers) , *Nature Climate Change*, Vol. 13 (2023),
+    778–787. <https://doi.org/10.1038/s41558-023-01725-1>.
+
+20. Natural Resources Modulate the Nexus Between Environmental Shocks
+    and Human Mobility (with M. Brottrager, S.H. Ali and D. Kniveton),
+    *Nature Communications*, Vol. 14 (2023), 1393.
+    <https://doi.org/10.1038/s41467-023-37074-y>.
+
+21. When Do We See Poverty Convergence? (with S. Klasen and K. Wacker),
+    *Oxford Bulletin of Economics and Statistics*, Vol. 84 (2022),
+    1283-1301. <https://doi.org/10.1111/obes.12492>.
+
+22. Uncertainty and Business Cycle Synchronization in Europe, *Applied
+    Economics Letters*, Vol. 29 (2022), 1047-1053.
+    <https://doi.org/10.1080/13504851.2021.1939854>.
+
+23. Estimating Global Economic Well-Being with Unlit Settlements
+    (with I. McCallum, C.C.M. Kyba, J.C. Laso-Bayas, E. Moltchanova, M.
+    Cooper, S. Pachauri, L. See, O. Danylo, I. Moorthy, M. Lesiv, K.
+    Baugh, C.D. Elvidge, M. Hofer and S. Fritz), *Nature
+    Communications*, Vol. 13 (2022), 2459.
+    <https://doi.org/10.1038/s41467-022-30099-9>.
+
+24. Fiscal Multipliers in a Small Open Economy: The Case of Austria
+    (with J. Čapek, J. Holler and P. Schuster), *Oxford Economic
+    Papers*, Vol. 74 (2022), 412–430.
+    <https://doi.org/10.1093/oep/gpab027>.
+
+25. Recent Progress and Future Directions for Research Related to
+    Migration and Conflict (with G. Abel, M. Brottrager and R.
+    Muttarak), *Global Environmental Change*, Vol. 71 (2021), 102401.
+    <https://doi.org/10.1016/j.gloenvcha.2021.102401>.
+
+26. Spatial Spillover Effects from Agriculture Drive Deforestation in
+    Mato Grosso, Brazil (with N. Kuschnig, T. Krisztin and S. Giljum),
+    *Scientific Reports*, Vol. 11 (2021), 21804.
+    <https://doi.org/10.1038/s41598-021-00861-y>.
+
+27. Modelling and Projecting Digital Trends in European Regions: An
+    Econometric Framework (with S. Lutz), *Regional Studies*, Vol. 55
+    (2021): 1696-1710. <https://doi.org/10.1080/00343404.2021.1976746>.
+
+28. Agricultural Commodity Price Dynamics and their Determinants: A
+    Comprehensive Econometric Approach (with J. Hlouskova and M.
+    Obersteiner), *Journal of Forecasting*, Vol. 40 (2021): 1245-1273.
+    <https://doi.org/10.1002/for.2768>.
+
+29. Monitoring and Projecting Global Hunger: Are We On Track? (with B.
+    Müller, C. Cafiero, J.C. Laso Bayas and H. Kharas), *Global Food
+    Security*, Vol. 30 (2021): 100568.
+    <https://doi.org/10.1016/j.gfs.2021.100568>.
+
+30. Tracing International Migration in Projections of Income and
+    Inequality Across the Shared Socioeconomic Pathways (with H.
+    Benveniste, M. Gidden and R. Muttarak), *Climatic Change*, Vol. 166
+    (2021): 39. <https://doi.org/10.1007/s10584-021-03133-w>.
+
+31. Overcoming Gender Inequality for Climate Resilient Development
+    (with M. Andrijevic, T. Lissner, A. Thomas, and C-F. Schleussner),
+    *Nature Communications*, Vol. 11 (2020): 6261.
+    <https://doi.org/10.1038/s41467-020-19856-w>.
+
+32. AgroTutor: A Mobile Phone Application Supporting Agricultural
+    Sustainable Intensification (with J-C. Laso Bayas, A.
+    Gardeazabal, M. Karner, C. Folberth, L. Vargas, R. Skalský, J.
+    Balkovic, A. Subash, M. Saad, S. Delerce, J. Hlouskova, J.
+    Molina-Maturano, L. See, S. Fritz, M. Obersteiner and B. Govaerts),
+    *Sustainability* Vol. 12 (2020): 9309.
+    <https://doi.org/10.3390/su12229309>.
+
+33. A Meta-Analysis of Country-Level Studies on Environmental Change and
+    Migration (with R. Hoffmann, A. Dimitrova, R. Muttarak and J.
+    Peisker), *Nature Climate Change* Vol. 10 (2020): 904–912.
+    <https://doi.org/10.1038/s41558-020-0898-6>.
+
+34. Fragility and the Effect of International Uncertainty Shocks
+    (with F. Huber and L. Onorante), *Journal of International Money and
+    Finance*, Vol. 108 (2020): 102151.
+    <https://doi.org/10.1016/j.jimonfin.2020.102151>.
+
+35. We Just Estimated Twenty Million Fiscal Multipliers (with J. Čapek),
+    *Oxford Bulletin of Economics and Statistics*, Vol. 82 (2020):
+    483–502. <https://doi.org/10.1111/obes.12351>.
+
+36. What Do We Know About Poverty in North Korea? (with O. Danylo, S.
+    Fritz, M. Hofer, H. Kharas and J.C. Laso Bayas),*Palgrave
+    Communications*, Vol. 6 (2020), 40.
+    <https://doi.org/10.1057/s41599-020-0417-4>.
+
+37. Governance in Socio-Economic Pathways and its Role for Future
+    Adaptive Capacity (with M. Andrijevic, R. Muttarak and C-F.
+    Schleussner), *Nature Sustainability*, Vol. 3 (2020): 35-41.
+    <https://doi.org/10.1038/s41893-019-0405-0>.
+
+38. Education Rather than Age Structure Brings Demographic Dividend
+    (with W. Lutz, E.B. Kebede,A. Fürnkranz-Prskawetz, W. Sanderson
+    and E. Striessnig), *Proceedings of the National Academy of Sciences
+    (PNAS)*, Vol. 116 (2019): 12798–12803.
+    <https://doi.org/10.1073/pnas.1820362116>.
+
+39. Climate, Conflict and Forced Migration (with G. Abel, M. Brottrager
+    and R. Muttarak), *Global Environmental Change*, Vol. 54 (2019):
+    239–249. <https://doi.org/10.1016/j.gloenvcha.2018.12.003>.
+
+40. Spillovers from US Monetary Policy: Evidence from a Time-Varying
+    Parameter GVAR Model (with G. Doppelhofer, M. Feldkircher and F.
+    Huber), *Journal of the Royal Statistical Society: Series A
+    (Statistics in Society)*, Vol. 182 (2019): 831–861.
+    <https://doi.org/10.1111/rssa.12439>.
+
+41. On the Empirics of Reserve Requirements and Economic Growth (with G.
+    von Schweinitz and K. Wendt), *Journal of Macroeconomics*, Vol. 60
+    (2019): 253–274. <https://doi.org/10.1016/j.jmacro.2019.03.004>.
+
+42. Deforestation and Economic Development: Evidence from National
+    Borders (with M. Heger), *Land Use Policy*, Vol. 84 (2019): 347–353.
+    <https://doi.org/10.1016/j.landusepol.2018.12.039>.
+
+43. Bivariate Jointness Measures in Bayesian Model Averaging: Solving
+    the Conundrum (with B. Grün, P. Hofmarcher, S. Humer and M. Moser),
+    *Journal of Macroeconomics*, Vol. 57 (2018): 150–165.
+    <https://doi.org/10.1016/j.jmacro.2018.05.005>.
+
+44. Exchange Rate Forecasting and the Performance of Currency Portfolios
+    (with I. Fortin and J. Hlouskova), *Journal of Forecasting*, Vol. 37
+    (2018): 519–540. <https://doi.org/10.1002/for.2518>.
+
+45. Fundamentals, Speculation or Macroeconomic Conditions? Modelling and
+    Forecasting Arabica Coffee Prices (with J. Hlouskova and M.
+    Obersteiner), *European Review of Agricultural Economics*, Vol. 45
+    (2018): 583–615. <https://doi.org/10.1093/erae/jby010>.
+
+46. Democracy, Geography and Model Uncertainty (with S. Humer and D.
+    Oberdabernig), *Scottish Journal of Political Economy*, Vol. 65
+    (2018): 154-185. <https://doi.org/10.1111/sjpe.12140>.
+
+47. Does Income Inequality Affect Aggregate Consumption? Revisiting the
+    Evidence (with J. Kubala and K. Petrikova), *Empirical Economics*,
+    Vol. 55 (2018): 905–912.
+    <https://doi.org/10.1007/s00181-017-1302-x>.
+
+48. Will the Sustainable Development Goals be fulfilled? Assessing
+    present and future global poverty (with W. Fengler, H. Kharas, K.
+    Bekhtiar, M. Brottrager and M. Hofer), *Palgrave Communications*, 29
+    (2018). <https://doi.org/10.1057/s41599-018-0083-y>.
+
+49. Human Capital Accumulation and Long-Term Income Growth Projections
+    for European Regions (with G. Doppelhofer, F. Huber and P.
+    Piribauer), *Journal of Regional Science*, Vol. 58 (2018): 81–99.
+    <https://doi.org/10.1111/jors.12339>.
+
+50. Credit Where Credit Is Due: An Approach to Education Returns Based
+    on Shapley Values (with B. Barakat), *Education Economics*, Vol. 25
+    (2017): 533–541. <https://doi.org/10.1080/09645292.2017.1343276>.
+
+51. Weighting Schemes in Global VAR Modelling: A Forecasting Exercise
+    (with F. Martin), *Letters in Spatial and Resource Sciences*, Vol.
+    10 (2017): 45–56. <https://doi.org/10.1007/s12076-016-0170-x>.
+
+52. Income Projections for Climate Change Research: A Framework Based on
+    Human Capital Dynamics, *Global Environmental Change*, Vol. 42
+    (2017): 226–236. <https://doi.org/10.1016/j.gloenvcha.2015.02.012>.
+
+53. The Shared Socioeconomic Pathways and their energy, land use, and
+    greenhouse gas emissions implications: An overview (with K. Riahi,
+    D.P. van Vuuren, E. Kriegler, J. Edmonds, B.C. ONeill, S.
+    Fujimori, N. Bauer, K. Calvin, R. Dellink, O. Fricko, W. Lutz, A.
+    Popp, S. KC, M. Leimbach, L. Jiang, T. Kram, S. Rao, J.
+    Emmerling, K. Ebi, T. Hasegawa, P. Havlik, F. Humpender, L.A. Da
+    Silva, S. Smith, E. Stehfest, V. Bosetti, J. Eom, D. Gernaat, T.
+    Masui, J. Rogelj, J. Streer, L. Drouet, V. Krey, G. Luderer, M.
+    Harmsen, K. Takahashi, L. Baumstark, J.C. Doelman, M. Kainuma, Z.
+    Klimont, G. Marangoni, H. Lotze-Campen, M. Obersteiner, A. Tabeau
+    and M. Tavoni), *Global Environmental Change*, Vol. 42 (2017):
+    153–168. <https://doi.org/10.1016/j.gloenvcha.2016.05.009>.
+
+54. Economic Development and Forest Cover: Evidence from Satellite Data
+    (with O. Danylo, S. Fritz, I. McCallum, M. Obersteiner, L. See
+    and B. Walsh), *Scientific Reports*, Vol. 7 (2017): 40678.
+    <https://doi.org/10.1038/srep40678>.
+
+55. Forecasting with Global Vector Autoregressive Models: A Bayesian
+    Approach (with M. Feldkircher and F. Huber), *Journal of Applied
+    Econometrics*, Vol. 31 (2016): 1371– 1391.
+    <https://doi.org/10.1002/jae.2504>.
+
+56. Forecasting Errors, Directional Accuracy and Profitability of
+    Currency Trading: The Case of EUR/USD Exchange Rate (with M.
+    Costantini and J. Hlouskova), *Journal of Forecasting*, Vol. 35
+    (2016): 652–668. <https://doi.org/10.1002/for.2398>.
+
+57. Bayesian Variable Selection in Spatial Autoregressive Models
+    (with P. Piribauer), *Spatial Economic Analysis*, Vol. 11 (2016):
+    457–479. <https://doi.org/10.1080/17421772.2016.1227468>.
+
+58. The Dynamics of Returns to Education in Uganda: National and
+    Subnational Trends (with A. Raggl), *Development Policy Review*,
+    Vol. 34 (2016): 385–422. <https://doi.org/10.1111/dpr.12155>.
+
+59. Aging and Income Convergence in Europe: A Survey of the Literature
+    and Insights from a Demographic Projection Exercise (with E.
+    Loichinger and G. Vincelette), *Economic Systems*, Vol. 40 (2016):
+    4–17. <https://doi.org/10.1016/j.ecosys.2015.07.003>.
+
+60. Why is Income Inequality Increasing in the Developed World? (with M.
+    Roser), *Review of Income and Wealth*, Vol. 62 (2016): 1–27.
+    <https://doi.org/10.1111/roiw.12153>.
+
+61. Unveiling Covariate Inclusion Structures In Economic Growth
+    Regressions Using Latent Class Analysis (with B. Grün, P.
+    Hofmarcher, S. Humer and M.Moser), *European Economic Review*, Vol.
+    81 (2016): 189–202.
+    <https://doi.org/10.1016/j.euroecorev.2015.03.009>.
+
+62. The Demography of Human Development and Climate Change
+    Vulnerability: A Projection Exercise (with W. Lutz), *Vienna
+    Yearbook of Population Research*, Vol. 13 (2015): 241–262.
+    <https://doi.org/10.1553/populationyearbook2015s241>.
+
+63. Last Night a Shrinkage Saved My Life: Economic Growth, Model
+    Uncertainty and Correlated Regressors (with B. Grün, P. Hofmarcher
+    and K. Hornik), *Journal of Forecasting*, Vol. 34 (2015): 133–144.
+    <https://doi.org/10.1002/for.2328>.
+
+64. Aggregravity: Estimating Gravity Models from Aggregate Data (with H.
+    Badinger), *Applied Economics*, Vol. 47 (2015): 2119–2126.
+    <https://doi.org/10.1080/00036846.2014.1002903>.
+
+65. Energy Inflation and House Price Corrections (with A. Breitenfellner
+    and P. Mayer), *Energy Economics*, Vol. 48 (2015): 109–116.
+    <https://doi.org/10.1016/j.eneco.2014.08.023>.
+
+66. Firm Growth and Productivity in Belarus: New Empirical Evidence from
+    the Machine Building Industry (with H. Oberhofer and G. Vincelette),
+    *Journal of Comparative Economics*, Vol. 42 (2014): 726–738.
+    <https://doi.org/10.1016/j.jce.2013.07.004>.
+
+67. Prospective Ageing and Economic Growth in Europe (with M. Labaj
+    and P. Pruzinsky), *Journal of the Economics of Ageing*, Vol. 3
+    (2014): 50–57. <https://doi.org/10.1016/j.jeoa.2014.05.003>.
+
+68. Modelling the Macroeconomic Impact of Future Trajectories of
+    Educational Development in Least Developed Countries (with S.
+    Basten), *International Journal of Educational Development*, Vol. 36
+    (2014): 44–50. <https://doi.org/10.1016/j.ijedudev.2013.12.003>.
+
+69. Demand and Supply Drivers of Foreign Currency Loans in CEECs: A
+    Meta-Analysis (with J. Fidrmuc and M. Hake), *Economic Systems*,
+    Vol. 38 (2014): 26–42.
+    <https://doi.org/10.1016/j.ecosys.2013.09.001>.
+
+70. Economic Growth and Inflation in Europe: A Tale of Two Thresholds
+    (with M.A. Silgoner), *Journal of Common Market Studies*, Vol. 52
+    (2014): 843–860. <https://doi.org/10.1111/jcms.12117>.
+
+71. Institutional Barriers and Job Creation in Central and Eastern
+    Europe (with H. Oberhofer and G. Vincelette), *IZA Journal of
+    European Labor Studies*, Vol. 3 (2014): 3.
+    <https://doi.org/10.1186/2193-9012-3-3>.
+
+72. Is the Demographic Dividend an Education Dividend? (with W.Lutz and
+    W.Sanderson), *Demography*, Vol. 51 (2014), 299–315.
+    <https://doi.org/10.1007/s13524-013-0245-x>.
+
+73. The Determinants of Economic Growth in European Regions (with G.
+    Doppelhofer and M. Feldkircher). *Regional Studies*, Vol. 48 (2014),
+    44–67. <https://doi.org/10.1080/00343404.2012.678824>.
+
+74. Deregulation and Demographic Change: A Key to Understanding Whether
+    Religious Plurality Leads to Strife (with B.J. Grim and V.
+    Skirbekk), *Interdisciplinary Journal of Research on Religion*, Vol.
+    9 (2013), 1–19.
+
+75. Income Convergence Prospects in Europe: Assessing the Role of Human
+    Capital Dynamics (with M. Havettova and M. Labaj ), *Economic
+    Systems*, Vol. 37 (2013), 493–507.
+    <https://doi.org/10.1016/j.ecosys.2013.02.004>.
+
+76. The Age-Productivity Pattern: Do Location and Sector Affiliation
+    Matter? (with B. Mahlberg, I. Freund and A. Fürnkranz-Prskawetz),
+    *Journal of the Economics of Ageing*, Vol. 1–2 (2013), 72–82.
+    <https://doi.org/10.1016/j.jeoa.2013.08.002>.
+
+77. Business Cycle Convergence in EMU: A Second Look at the Second
+    Moment (with O. Fernández Amador), *Journal of International Money
+    and Finance*, Vol. 37 (2013), 239–259.
+    <https://doi.org/10.1016/j.jimonfin.2013.06.002>.
+
+78. Business Cycle Convergence in EMU: A First Look at the Second Moment
+    (with O. Fernández Amador), *Journal of Macroeconomics*, Vol. 37
+    (2013), 265–284. <https://doi.org/10.1016/j.jmacro.2013.02.001>.
+
+79. Spatial Filtering, Model Uncertainty and the Speed of Income
+    Convergence in Europe (with M. Feldkircher), *Journal of Applied
+    Econometrics*, Vol. 28 (2013), 720–741.
+    <https://doi.org/10.1002/jae.2277>.
+
+80. Ageing, Productivity and Wages in Austria (with B. Mahlberg, I.
+    Freund and A. Fürnkranz-Prskawetz), *Labour Economics*, Vol. 22
+    (2013), 5–15. <https://doi.org/10.1016/j.labeco.2012.09.005>.
+
+81. Explaining the Persistence of Profits – A Time Varying Approach
+    (with A. Gschwandtner), *International Journal of the Economics of
+    Business*, Vol. 20 (2013), 39–55.
+    <https://doi.org/10.1080/13571516.2012.750051>.
+
+82. Borders Redrawn: Measuring the Statistical Creation of International
+    Trade (with M. Roser), *The World Economy*, Vol. 35 (2012), 946–952.
+    <https://doi.org/10.1111/j.1467-9701.2012.01454.x>.
+
+83. Human Capital, Age Structure and Growth Fluctuations (with T.
+    Mishra), *Applied Economics*, Vol. 43 (2011), 4311–4329.
+    <https://doi.org/10.1080/00036846.2010.491453>.
+
+84. Oil and the Duration of Dictatorships (with H. Oberhofer and P.
+    Raschky), *Public Choice*, Vol. 148 (2011), 505–530.
+    <https://doi.org/10.1007/s11127-010-9671-0>.
+
+85. How Different is Africa? A Comment on Masanjala and Papageorgiou.
+    *Journal of Applied Econometrics*, Vol. 26 (2011) 1041–1047.
+    <https://doi.org/10.1002/jae.1180>.
+
+86. The Determinants of Regional Economic Growth by Quantile (with N.
+    Foster and R. Stehrer), *Regional Studies*, Vol. 45 (2011), 809–826.
+    <https://doi.org/10.1080/00343401003713456>.
+
+87. The Role of Age-Structured Education Data for Economic Growth
+    Forecasts (with T. Mishra), *Journal of Forecasting*, Vol. 30
+    (2011), 249–267. <https://doi.org/10.1002/for.1171>.
+
+88. Natural Disasters and Human Capital Accumulation, *World Bank
+    Economic Review*, Vol. 24 (2010), 280–302.
+    <https://doi.org/10.1093/wber/lhq008>.
+
+89. Demography, Education and Democracy: Global Trends and the Case of
+    Iran (with W. Lutz and M.J. Abbasi-Shavasi), *Population and
+    Development Review*, Vol. 36 (2010), 253–281.
+    <https://doi.org/10.1111/j.1728-4457.2010.00329.x>.
+
+90. An "Almost-Too-Late" Warning Mechanism for Currency Crises (with T.
+    Slacik), *Economics of Transition*, Vol. 18 (2010), 123–141.
+    <https://doi.org/10.1111/j.1468-0351.2009.00369.x>.
+
+91. On the Effectiveness and Limits of Fiscal Stabilizers (with G.
+    Reitschuler and M.A. Silgoner), *Applied Economics*, Vol. 43 (2009)
+    1079–1086. <https://doi.org/10.1080/00036840802600251>.
+
+92. On the Determinants of Currency Crises: The Role of Model
+    Uncertainty (with T. Slacik), *Journal of Macroeconomics*, Vol. 31
+    (2009), 621–632. <https://doi.org/10.1016/j.jmacro.2009.01.004>.
+
+93. Modelling and Forecasting Oil Prices: The Role of Asymmetric Cycles
+    (with A. Jumah and S. Karbuz), *The Energy Journal*, Vol. 30 (2009),
+    81–90. <https://doi.org/10.5547/ISSN0195-6574-EJ-Vol30-No3-4>.
+
+94. The Demography of Educational Attainment and Economic Growth
+    (with W. Lutz and W. Sanderson), *Science*, Vol. 319 (2008),
+    1047–1048. <https://doi.org/10.1126/science.1151753>.
+
+95. Tracing the Dynamics of Competition: Evidence from Company Profits
+    (with A. Gschwandtner), *Economic Inquiry*, Vol. 46 (2008), 208–213.
+    <https://doi.org/10.1111/j.1465-7295.2007.00062.x>.
+
+96. Natural Disasters as Creative Destruction: Evidence from Developing
+    Countries (with J. Hlouskova and M. Obersteiner), *Economic
+    Inquiry*, Vol. 46 (2008), 214–226.
+    <https://doi.org/10.1111/j.1465-7295.2007.00063.x>.
+
+97. Barriers to Technology Adoption, International R&D Spillovers and
+    Growth (with N. Foster and J. Scharler), *Economics Bulletin*, Vol.
+    15 (2008), 1–7.
+
+98. Growth, Convergence and EU Membership (with M.A. Silgoner and D.
+    Ritzberger-Grünwald), *Applied Economics*, Vol. 40 (2008), 643–656.
+    <https://doi.org/10.1080/00036840600749524>.
+
+99. Fundamentals, the Exchange Rate and Prospects for the Current and
+    Future EU Enlargements – Evidence from Bulgaria, Croatia, Romania
+    and Turkey (with J. Fidrmuc and M.A. Silgoner), *Empirica*, Vol. 35
+    (2008), 195–211. <https://doi.org/10.1007/s10663-007-9057-9>.
+
+100. Is the Ricardian Equivalence Proposition an “Aerie Fairy” Theory
+     for Europe? (with G. Reitschuler), *Economica*, Vol. 74 (2007),
+     682–694. <https://doi.org/10.1111/j.1468-0335.2007.00588.x>.
+
+101. The Natural Rate of Interest: Which Concept? Which Estimation
+     Method? Which Policy Conclusions? (with E. Gnan), *Journal of
+     Post-Keynesian Economics*, Vol. 29 (2007), 667–688.
+     <https://doi.org/10.2753/PKE0160-3477290407>.
+
+102. Nonlinearities in Cross-Country Growth Regressions: A Bayesian
+     Averaging of Thresholds (BAT) Approach (with G. Doppelhofer),
+     *Journal of Macroeconomics*, Vol.29 (2007), 541–554.
+     <https://doi.org/10.1016/j.jmacro.2007.03.001>.
+
+103. Interest Rate Pass-Through in Central and Eastern Europe: Reborn
+     from Ashes Merely to Pass Away? (with B. Egert and T. Reininger),
+     *Journal of Policy Modelling*, Vol. 29 (2007), 209–225.
+     <https://doi.org/10.1016/j.jpolmod.2007.01.005>.
+
+104. Measuring Monetary Independence: Evidence from New EU Member
+     Countries (with C. Wojcik), *Journal of Comparative Economics*,
+     Vol. 34 (2006), 24–43. <https://doi.org/10.1016/j.jce.2005.12.003>.
+
+105. Guns or Butter? Revisited: Robustness and Nonlinearity Issues in
+     the Defense-Growth Nexus (with G. Reitschuler), *Scottish Journal
+     of Political Economy*, Vol. 53 (2006), 523–541.
+     <https://doi.org/10.1111/j.1467-9485.2006.00393.x>.
+
+106. Convergence of Educational Attainment Levels in the OECD: More
+     Data, More Problems? *Economics of Education Review*, Vol. 25
+     (2006), 173–178.
+     <https://doi.org/10.1016/j.econedurev.2005.02.001>.
+
+107. The Competitive Environment Hypothesis Revisited: Nonlinearity,
+     Nonstationarity and Profit Persistence (with A. Gschwandtner),
+     *Applied Economics*, Vol. 38 (2005), 465–472.
+     <https://doi.org/10.1080/00036840500390312>.
+
+108. On the Road: The Path of Bulgaria, Croatia and Romania to the EU
+     and the Euro (with J. Fidrmuc and M. A. Silgoner), *Europe-Asia
+     Studies*, Vol. 57 (2005), 843–858.
+     <https://doi.org/10.1080/108009668130500199418>.
+
+109. The Term Structure as a Predictor of Real Activity and Inflation in
+     the Euro Area: A Reassessment (with E. Gnan and D.
+     Ritzberger-Grünwald), *Review of World Economics
+     (Weltwirtschaftliches Archiv)*, Vol. 141, No. 2 (2005), 318–342.
+     <https://doi.org/10.1007/s10290-005-0030-z>.
+
+110. The Monetary Approach to Exchange Rates in CEECs (with J. Fidrmuc
+     and R. Mac-Donald), *The Economics of Transition*, Vol. 13 (2005),
+     395–416. <https://doi.org/10.1111/j.1468-0351.2005.00213.x>.
+
+111. On Export Composition and Growth (with J. Wörz), *Review of World
+     Economics (Weltwirtschaftliches Archiv)*, Vol. 141 (2005), 33–49.
+     <https://doi.org/10.1007/s10290-005-0014-z>.
+
+112. Beating the Random Walk in Central and Eastern Europe (with J.
+     Hlouskova), *Journal of Forecasting*, Vol. 24 (2005), 189–201.
+     <https://doi.org/10.1002/for.952>.
+
+113. Using Pre-EMU Data to Assess Monetary Policy in the Euro Area
+     (with E. Gnan and D. Ritzberger-Grünwald), *Economic Modelling*,
+     Vol. 21 (2004), 1003–1014.
+     <https://doi.org/10.1016/j.econmod.2004.01.001>.
+
+114. Searching for the Natural Rate of Interest: A Euro Area Perspective
+     (with E. Gnan and D. Ritzberger-Grünwald), *Empirica*, Vol. 31
+     (2004), 185–204. <https://doi.org/10.1007/s10663-004-0914-5>.
+
+115. Forecasting Exchange Rates in Transition Economies: A Comparison of
+     Multivariate Time Series Models (with J. Hlouskova), *Empirical
+     Economics*, Vol. 29 (2004), 787–801.
+     <https://doi.org/10.1007/s00181-004-0212-x>.
+
+116. Ricardian Equivalence Revisited: Evidence from OECD Countries
+     (with G. Reitschuler), *Economics Bulletin*, Vol. 5 (2004), 1–10.
+
+117. A Nonlinear Defense-Growth nexus? Evidence from the US Economy
+     (with G. Reitschuler), *Defence and Peace Economics*, Vol. 15
+     (2004), 71–82. <https://doi.org/10.1080/1024269042000164504>.
+
+118. Forecasting Electricity Spot Prices Using Linear Univariate Time
+     Series Models (with J. Hlouskova, S. Kossmeier and M. Obersteiner),
+     *Applied Energy*, Vol. 77 (2004), 87-106.
+     <https://doi.org/10.1016/S0306-2619(03)00096-5>.
+
+119. Okun’s Law Revisited, *Oxford Bulletin of Economics and
+     Statistics*, Vol. 65 (2003), 439–451.
+     <https://doi.org/10.1111/1468-0084.t01-1-00056>.
+
+120. Asymmetric Cycles in Unobserved Components Models, *Economics
+     Bulletin*, Vol. 5 (2003),1–9.
+
+121. Point Splitting and Condorcet Criteria, *The Mathematical
+     Intelligencer*, Vol. 23 (2001), 23–26.
+     <https://doi.org/10.1007/BF03026849>.
+
+</details>
+
+For the institutional publication database, see my [WU research profile](https://research.wu.ac.at/en/persons/jesus-crespo-cuaresma-3/).

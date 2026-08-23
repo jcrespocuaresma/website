@@ -1,24 +1,76 @@
-# Jesús Crespo Cuaresma academic website
+# Jesús Crespo Cuaresma — academic website
 
-This is a minimal static academic website with three pages:
+A deliberately slim academic website with four pages:
 
-- `index.html`
-- `research.html`
-- `teaching.html`
+- Home
+- Research
+- Publications
+- Teaching
 
-The site can be hosted for free on GitHub Pages, Netlify, Cloudflare Pages or a university web server.
+The repository contains both **Quarto source files** (`*.qmd`) and a **ready-to-publish static version** in `docs/`.
 
-## Quick GitHub Pages deployment
+## Publish immediately with GitHub Pages — no software required
 
-1. Create a public GitHub repository, for example `jesuscrespo.github.io`.
-2. Upload all files and folders from this package to the repository root.
-3. In GitHub, go to Settings > Pages.
-4. Under "Build and deployment", choose "Deploy from a branch".
-5. Choose the `main` branch and `/root` folder.
-6. Save. The website will appear at `https://YOURUSERNAME.github.io/`.
+1. Create a GitHub account if you do not already have one.
+2. Create a new repository. A simple name is `academic-site`. If you name it `<YOUR-GITHUB-USERNAME>.github.io`, the site will live directly at `https://<YOUR-GITHUB-USERNAME>.github.io/`.
+3. Upload the **contents of this folder** to the repository, including the `docs` folder. Keep the folder structure unchanged.
+4. Open the repository on GitHub and go to **Settings → Pages**.
+5. Under **Build and deployment**, choose **Deploy from a branch**.
+6. Select branch **main** and folder **/docs**, then click **Save**.
+7. GitHub will publish the site. For a repository called `academic-site`, the address will normally be `https://<YOUR-GITHUB-USERNAME>.github.io/academic-site/`.
 
-## Editing
+The files under `docs/` are already rendered, so you do not need Quarto for this first publication.
 
-- Edit text directly in the `.html` files.
-- Edit design rules in `assets/style.css`.
-- Replace the CV file in `assets/` and keep the file name `CV-Jesus-Crespo-Cuaresma.pdf`, or update the links in the HTML files.
+## Edit and preview with Quarto
+
+For ongoing maintenance, install Quarto from https://quarto.org/ and edit the `.qmd` files in the root folder.
+
+Preview locally:
+
+```bash
+quarto preview
+```
+
+Regenerate the `docs/` folder:
+
+```bash
+quarto render
+```
+
+Then commit/push both the source files and the updated `docs/` folder to GitHub.
+
+## Add a PDF CV
+
+The updated LaTeX source is in:
+
+`files/CV_Crespo_Cuaresma_DOI_updated.tex`
+
+When you have a current PDF, save it as:
+
+`files/CV_Jesus_Crespo_Cuaresma.pdf`
+
+and copy the same PDF to:
+
+`docs/files/CV_Jesus_Crespo_Cuaresma.pdf`
+
+You can then add a CV link to the homepage or navbar.
+
+## Custom domain
+
+After the GitHub Pages version is working, you can add a custom domain under **Settings → Pages → Custom domain**. Configure the corresponding DNS records with your domain provider. GitHub recommends verifying the domain for security.
+
+## Main files to edit
+
+- `_quarto.yml` — navigation and global site settings
+- `index.qmd` — homepage
+- `research.qmd` — research profile
+- `publications.qmd` — selected and complete publication lists
+- `teaching.qmd` — teaching
+- `styles.css` — appearance
+
+## Notes
+
+- The design intentionally uses no photograph or stock imagery.
+- The complete peer-reviewed publication list is collapsed by default to keep the site visually light.
+- DOI links are clickable and use `https://doi.org/...`.
+- External profile links currently point to WU Research, ORCID, the WU department page, the World Poverty Clock and the World Emissions Clock.

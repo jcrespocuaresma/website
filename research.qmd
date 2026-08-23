@@ -1,0 +1,50 @@
+---
+title: "Research"
+title-block-style: none
+---
+
+
+# Research
+
+My research combines methodological work in econometrics with substantive questions in macroeconomics, demography and environmental change. Across these areas, I am particularly interested in settings in which uncertainty is substantial, relationships evolve over time, and economic outcomes are linked across countries, regions or sectors.
+
+## Econometric methods and forecasting
+
+A major strand of my work develops econometric methods for model uncertainty, structural change and complex interdependencies. This includes work on Bayesian model averaging, spatial econometrics, global vector autoregressive models, forecast combination and methods for detecting structural changes in large econometric systems.
+
+Selected papers include:
+
+- [Bayesian Indicator-Saturated Regression for Climate Policy Evaluation](https://doi.org/10.48550/arXiv.2603.04997), *The Econometrics Journal*, forthcoming.
+- [Forecasting with Global Vector Autoregressive Models: A Bayesian Approach](https://doi.org/10.1002/jae.2504), *Journal of Applied Econometrics*, 2016.
+- [Spatial Filtering, Model Uncertainty and the Speed of Income Convergence in Europe](https://doi.org/10.1002/jae.2277), *Journal of Applied Econometrics*, 2013.
+
+## Demography, human capital and long-run development
+
+A second strand studies how population change, educational attainment and human capital shape long-run economic development. This work has contributed to long-run socioeconomic projection frameworks used in the Shared Socioeconomic Pathways and in research on climate-change risks.
+
+Selected papers include:
+
+- [Education Rather than Age Structure Brings Demographic Dividend](https://doi.org/10.1073/pnas.1820362116), *PNAS*, 2019.
+- [Income Projections for Climate Change Research: A Framework Based on Human Capital Dynamics](https://doi.org/10.1016/j.gloenvcha.2015.02.012), *Global Environmental Change*, 2017.
+- [Is the Demographic Dividend an Education Dividend?](https://doi.org/10.1007/s13524-013-0245-x), *Demography*, 2014.
+- [The Demography of Educational Attainment and Economic Growth](https://doi.org/10.1126/science.1151753), *Science*, 2008.
+
+## Climate, environment and human mobility
+
+More recent work focuses on the interaction between environmental shocks and socioeconomic outcomes, including greenhouse-gas emissions, climate vulnerability, conflict and migration. A recurring objective is to identify the mechanisms and local conditions that shape heterogeneous responses to environmental change.
+
+Selected papers include:
+
+- [A Unified Modelling Framework for Projecting Sectoral Greenhouse Gas Emissions](https://doi.org/10.1038/s43247-024-01288-9), *Communications Earth & Environment*, 2024.
+- [Natural Resources Modulate the Nexus Between Environmental Shocks and Human Mobility](https://doi.org/10.1038/s41467-023-37074-y), *Nature Communications*, 2023.
+- [A Meta-Analysis of Country-Level Studies on Environmental Change and Migration](https://doi.org/10.1038/s41558-020-0898-6), *Nature Climate Change*, 2020.
+- [Climate, Conflict and Forced Migration](https://doi.org/10.1016/j.gloenvcha.2018.12.003), *Global Environmental Change*, 2019.
+
+## Research beyond papers
+
+I have also contributed to projects that translate large-scale statistical models into accessible public tools.
+
+- **[World Poverty Clock](https://worldpoverty.io/)** — real-time and forward-looking estimates of global poverty.
+- **[World Emissions Clock](https://worldemissions.io/)** — projections of greenhouse-gas emissions by country and sector.
+
+These projects reflect a broader interest in making quantitative evidence and model-based projections accessible outside academia.

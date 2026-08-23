@@ -1,0 +1,55 @@
+---
+title: "Jesús Crespo Cuaresma"
+title-block-style: none
+---
+
+
+::: {.hero}
+# Jesús Crespo Cuaresma
+
+**Professor of Economics · Vienna University of Economics and Business**  
+Head of the Department of Economics
+
+I am an economist working on econometric methods and their application to questions in macroeconomics, demographic change, climate change and human mobility. A central theme of my research is the development of quantitative tools for studying long-run socioeconomic change under model uncertainty.
+
+[Email](mailto:jcrespo@wu.ac.at){.btn .btn-primary} [WU profile](https://www.wu.ac.at/en/economics/people/crespo-j){.btn} [Research database](https://research.wu.ac.at/en/persons/jesus-crespo-cuaresma-3/){.btn} [ORCID](https://orcid.org/0000-0003-3244-6560){.btn}
+:::
+
+## Research
+
+::: {.theme-grid}
+::: {.theme-card}
+### Econometric methods & forecasting
+Methods for model uncertainty, structural change, spatial and international interdependencies, and forecast combination.
+
+[Research →](research.qmd#econometric-methods-and-forecasting)
+:::
+
+::: {.theme-card}
+### Demography & long-run development
+The role of education, human capital and demographic change in economic growth and long-run socioeconomic projections.
+
+[Research →](research.qmd#demography-human-capital-and-long-run-development)
+:::
+
+::: {.theme-card}
+### Climate, environment & human mobility
+Quantitative modelling of environmental shocks, greenhouse-gas emissions, vulnerability and migration responses.
+
+[Research →](research.qmd#climate-environment-and-human-mobility)
+:::
+:::
+
+## Selected work
+1. **[Bayesian Indicator-Saturated Regression for Climate Policy Evaluation](https://doi.org/10.48550/arXiv.2603.04997)** (with L.D. Konrad and L. Vashold). *The Econometrics Journal*, forthcoming. [Preprint](https://doi.org/10.48550/arXiv.2603.04997)
+2. **[A Unified Modelling Framework for Projecting Sectoral Greenhouse Gas Emissions](https://doi.org/10.1038/s43247-024-01288-9)** (with L. Vashold). *Communications Earth & Environment*, 5 (2024), 139. [DOI](https://doi.org/10.1038/s43247-024-01288-9)
+3. **[Natural Resources Modulate the Nexus Between Environmental Shocks and Human Mobility](https://doi.org/10.1038/s41467-023-37074-y)** (with M. Brottrager, S.H. Ali and D. Kniveton). *Nature Communications*, 14 (2023), 1393. [DOI](https://doi.org/10.1038/s41467-023-37074-y)
+4. **[A Meta-Analysis of Country-Level Studies on Environmental Change and Migration](https://doi.org/10.1038/s41558-020-0898-6)** (with R. Hoffmann, A. Dimitrova, R. Muttarak and J. Peisker). *Nature Climate Change*, 10 (2020), 904–912. [DOI](https://doi.org/10.1038/s41558-020-0898-6)
+5. **[Education Rather than Age Structure Brings Demographic Dividend](https://doi.org/10.1073/pnas.1820362116)** (with W. Lutz, E.B. Kebede, A. Fürnkranz-Prskawetz, W. Sanderson and E. Striessnig). *Proceedings of the National Academy of Sciences*, 116 (2019), 12798–12803. [DOI](https://doi.org/10.1073/pnas.1820362116)
+6. **[Climate, Conflict and Forced Migration](https://doi.org/10.1016/j.gloenvcha.2018.12.003)** (with G. Abel, M. Brottrager and R. Muttarak). *Global Environmental Change*, 54 (2019), 239–249. [DOI](https://doi.org/10.1016/j.gloenvcha.2018.12.003)
+7. **[Income Projections for Climate Change Research: A Framework Based on Human Capital Dynamics](https://doi.org/10.1016/j.gloenvcha.2015.02.012)**. *Global Environmental Change*, 42 (2017), 226–236. [DOI](https://doi.org/10.1016/j.gloenvcha.2015.02.012)
+8. **[Forecasting with Global Vector Autoregressive Models: A Bayesian Approach](https://doi.org/10.1002/jae.2504)** (with M. Feldkircher and F. Huber). *Journal of Applied Econometrics*, 31 (2016), 1371–1391. [DOI](https://doi.org/10.1002/jae.2504)
+9. **[Is the Demographic Dividend an Education Dividend?](https://doi.org/10.1007/s13524-013-0245-x)** (with W. Lutz and W. Sanderson). *Demography*, 51 (2014), 299–315. [DOI](https://doi.org/10.1007/s13524-013-0245-x)
+10. **[The Demography of Educational Attainment and Economic Growth](https://doi.org/10.1126/science.1151753)** (with W. Lutz and W. Sanderson). *Science*, 319 (2008), 1047–1048. [DOI](https://doi.org/10.1126/science.1151753)
+
+[All publications →](publications.qmd)

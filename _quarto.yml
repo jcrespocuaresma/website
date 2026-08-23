@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jesús Crespo Cuaresma"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - href: "mailto:jcrespo@wu.ac.at"
+        text: Email
+  page-footer:
+    left: "© 2026 Jesús Crespo Cuaresma"
+    right: "Vienna University of Economics and Business"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+    anchor-sections: false
+    smooth-scroll: true
+
+execute:
+  freeze: auto

@@ -1,0 +1,7 @@
+FIRST VERSION — EDITING NOTES
+
+1. Add a current CV PDF when ready; the site currently avoids linking the older WU-hosted 2023 CV.
+2. If desired, add Google Scholar once you choose the exact profile URL.
+3. The homepage is intentionally photo-free.
+4. The complete publication list is generated from the DOI-updated LaTeX CV.
+5. The static docs/ folder can be published immediately; the root .qmd files are the maintainable Quarto source.
