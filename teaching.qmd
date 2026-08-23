@@ -3,12 +3,11 @@ title: "Teaching"
 title-block-style: none
 ---
 
-
 # Teaching
 
 My teaching covers macroeconomics, econometrics and economic growth at undergraduate, master's and doctoral level.
 
-## Main areas
+## Areas
 
 - Introductory and advanced macroeconomics
 - Macroeconomic policy and international macroeconomics

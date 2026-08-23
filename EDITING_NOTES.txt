@@ -1,7 +1,28 @@
-FIRST VERSION — EDITING NOTES
+SITE STRUCTURE
+--------------
+Top navigation: About | Research | Teaching
 
-1. Add a current CV PDF when ready; the site currently avoids linking the older WU-hosted 2023 CV.
-2. If desired, add Google Scholar once you choose the exact profile URL.
-3. The homepage is intentionally photo-free.
-4. The complete publication list is generated from the DOI-updated LaTeX CV.
-5. The static docs/ folder can be published immediately; the root .qmd files are the maintainable Quarto source.
+ABOUT PAGE
+index.qmd
+
+RESEARCH PAGE
+research.qmd
+
+TEACHING PAGE
+teaching.qmd
+
+LOOK AND FEEL
+styles.css
+
+PHOTO
+The site uses the WU-hosted portrait and crops it in CSS.
+To adjust the crop, edit .profile-photo -> object-position in styles.css.
+
+PROFILE LINKS
+Under the portrait there are exactly four links:
+CV | WU page | ORCID | LinkedIn
+
+PUBLISHING
+GitHub repository: jcrespocuaresma/website
+GitHub Pages: main branch, /docs folder
+Live site: https://jcrespocuaresma.github.io/website/
